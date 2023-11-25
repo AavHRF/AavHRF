@@ -4,6 +4,9 @@
 Hi, I'm a 20 y/o girl from the West Coast who programs mostly as a hobby. IRL I am an allied health professional. I primarily code in Python and do a lot of work with databases. I enjoy building Discord bots.
 On [nationstates.net](https://nationstates.net) I am a Technical Moderator.
 
+- 🎶 I'm currently listening to GUTS from Oliva Rodrigo
+- 😄 Pronouns: She/Her/Hers
+
 #### Some of my projects:
 
 - I am a lead maintainer on [Spyglass](https://github.com/Derpseh/Spyglass), a R/D utility for finding regional update times
