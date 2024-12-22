@@ -1,10 +1,10 @@
 ### Welcome to my profile
 
 #### About Me:
-Hi, I'm a 20 y/o girl from the West Coast who programs mostly as a hobby. IRL I am an allied health professional. I primarily code in Python and do a lot of work with databases. I enjoy building Discord bots.
+Hi, I'm a 21 y/o girl from the West Coast who programs mostly as a hobby. IRL I am an allied health professional. I primarily code in Python and do a lot of work with databases. I enjoy building Discord bots.
 On [nationstates.net](https://nationstates.net) I am a Technical Moderator.
 
-- 🎶 I'm currently listening to GUTS from Oliva Rodrigo
+- 🎶 I'm currently listening to Avril Lavigne
 - 😄 Pronouns: She/Her/Hers
 
 #### Some of my projects:
